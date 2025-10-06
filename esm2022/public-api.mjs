@@ -1,7 +1,0 @@
-/*
- * Public API Surface of multi-theme
- */
-export * from './lib/multi-theme.service';
-export * from './lib/multi-theme.component';
-export * from './lib/multi-theme.module';
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL211bHRpLXRoZW1lL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYywyQkFBMkIsQ0FBQztBQUMxQyxjQUFjLDZCQUE2QixDQUFDO0FBQzVDLGNBQWMsMEJBQTBCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG11bHRpLXRoZW1lXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvbXVsdGktdGhlbWUuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tdWx0aS10aGVtZS5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbXVsdGktdGhlbWUubW9kdWxlJztcbiJdfQ==
