@@ -197,7 +197,7 @@ button.copy-btn:active {
 .file-tag {
   position: absolute;
   top: 1px;
-  right: 2px;
+  right: 60px;
   background-color: #f1f1f1;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -205,4 +205,8 @@ button.copy-btn:active {
   font-size: 12px;
   font-family: monospace;
   z-index: 1001;
+}
+
+.mt-action {
+  width: 20%;
 }
