@@ -1,0 +1,30 @@
+#main-wrapper[data-layout="vertical"]
+  .topbar
+  .navbar-collapse[data-navbarbg="skin1"],
+#main-wrapper[data-layout="vertical"] .topbar[data-navbarbg="skin1"] {
+  background: #868e96;
+}
+
+.navbar-dark {
+  --bs-navbar-color: #fff !important;
+}
+.page-wrapper {
+  background: #e1e7eb;
+}
+
+#main-wrapper[data-layout="vertical"]
+  .left-sidebar[data-sidebarbg="skin6"]
+  .sidebar-nav
+  ul
+  .sidebar-item.active
+  > .sidebar-link {
+  color: #868e96;
+  font-weight: 400;
+}
+
+:root .btn-primary {
+  --bs-btn-bg: #e1e7eb;
+  --bs-btn-border-color: #e1e7eb;
+  --bs-btn-hover-bg: #247b0a;
+  --bs-btn-hover-border-color: #247b0a;
+}
