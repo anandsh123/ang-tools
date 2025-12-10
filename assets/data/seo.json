@@ -1,0 +1,50 @@
+[
+  {
+    "page": "Home",
+    "title": "Angular Tools — Free Tools for Angular Developers",
+    "description": "A collection of free Angular tools including notification service, form error helper, multi-theme engine, tree view component, step wizard, and smart Bootstrap table.",
+    "keywords": "angular tools, free angular tools, angular components, angular utilities, angular plugins, angular examples, angular demo tools, frontend development tools"
+  },
+  {
+    "page": "Notification",
+    "title": "Free Angular Notification Service | Alert Utility",
+    "description": "Use the free Notification Tool to quickly add toast messages, alerts, and success/error notifications in your Angular application.",
+    "keywords": "angular notification, angular toast, angular alert service, notification component angular, toast service angular, alert message angular, angular ui notifications"
+  },
+  {
+    "page": "FormError",
+    "title": "Angular Form Error Display Tool | Automatic Validation Messages",
+    "description": "A simple tool that auto-displays Angular form errors with clean UI, supporting validation rules.",
+    "keywords": "angular form error, reactive form errors, form validation angular, angular error messages, validation messages angular, angular form helper, angular form validation tool"
+  },
+  {
+    "page": "Multi-Theme",
+    "title": "Angular Multi-Theme Tool | Dynamic custom Theme Switcher",
+    "description": "Add multiple themes to your Angular project easily with this free multi-theme switching tool.",
+    "keywords": "angular theme switcher, angular dark mode, angular multi theme, theme service angular, light dark theme angular, angular dynamic theming, css theme angular"
+  },
+  {
+    "page": "TreeView",
+    "title": "Angular Tree View Component | Expand/Collapse + Checkbox Support",
+    "description": "Free Angular TreeView tool with expandable nodes, checkbox selection, filtering, and hierarchical parent–child state management.",
+    "keywords": "angular tree view, angular treeview component, checkbox tree angular, hierarchical tree angular, expandable tree angular, nested list angular, angular ui tree"
+  },
+  {
+    "page": "Notification",
+    "title": "",
+    "description": "",
+    "keywords": ""
+  },
+  {
+    "page": "Notification",
+    "title": "",
+    "description": "",
+    "keywords": ""
+  },
+  {
+    "page": "Notification",
+    "title": "",
+    "description": "",
+    "keywords": ""
+  }
+]
