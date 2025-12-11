@@ -30,21 +30,21 @@
     "keywords": "angular tree view, angular treeview component, checkbox tree angular, hierarchical tree angular, expandable tree angular, nested list angular, angular ui tree"
   },
   {
-    "page": "Notification",
-    "title": "",
-    "description": "",
-    "keywords": ""
+    "page": "step-wizard",
+    "title": "Angular Step Wizard Component | Multi-Step Form Navigation",
+    "description": "Easily create multi-step forms or guided wizards in Angular with this free step wizard UI tool",
+    "keywords": "angular step wizard, angular wizard component, multi step form angular, angular stepper, angular form wizard, angular steps ui, guided steps angular"
   },
   {
-    "page": "Notification",
-    "title": "",
-    "description": "",
-    "keywords": ""
+    "page": "smart-table",
+    "title": "Bootstrap Smart Table for Angular",
+    "description": "A smart Angular table with column hide/show, resizing, and drag-and-drop reordering",
+    "keywords": "angular smart table, angular table component, bootstrap table angular, angular sortable table, angular filter table, data table angular, column reorder angular"
   },
   {
-    "page": "Notification",
-    "title": "",
-    "description": "",
-    "keywords": ""
+    "page": "smart-panel",
+    "title": "Angular Smart Panel Component | Expand, Collapse, Fullscreen & Hide/Show",
+    "description": "A flexible Angular Smart Panel component with expand/collapse behavior, fullscreen mode, hide/show toggle, and smooth UI transitions. Perfect for dashboards, admin panels, and advanced layouts.",
+    "keywords": "angular smart panel, angular collapsible panel, expandable panel angular, angular full screen panel, angular hide show panel, collapsible card angular, angular ui panel component, toggle panel angular, angular panel widget, angular resizable panelr"
   }
 ]
